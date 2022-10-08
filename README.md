@@ -5,6 +5,7 @@
 ### look into what should be global, probably all of them since they'll make up my dev toolbox
 
 - nodemon (as a global dev dependency...see if global dev dependencies can be part of dotfiles... might add other global node dev dependencies that can be used on any project as you find useful tools for nodejs development)
+- postman
 - dotenv
 - eslint
 - prettier (yay for autoformatting! dont forget to enable format on save.). also maybe prettier config file? (see nodefarm part 1 from jonas, its just a .prettierrc file, though it might just be a project by project basis)
