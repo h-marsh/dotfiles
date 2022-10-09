@@ -4,6 +4,7 @@
 
 ### look into what should be global, probably all of them since they'll make up my dev toolbox
 
+- vscode (duh. and themes: see below)
 - nodemon (as a global dev dependency...see if global dev dependencies can be part of dotfiles... might add other global node dev dependencies that can be used on any project as you find useful tools for nodejs development)
 - postman
 - dotenv
