@@ -6,3 +6,4 @@ https://www.webpro.nl/articles/getting-started-with-dotfiles
 https://dotfiles.github.io/
 https://dotfiles.github.io/tutorials/
 https://kalis.me/dotfiles-automating-macos-system-configuration/
+https://pawelgrzybek.com/sync-vscode-settings-and-snippets-via-dotfiles-on-github/
