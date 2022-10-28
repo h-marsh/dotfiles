@@ -34,6 +34,8 @@
 - nodejs
 - postman
 - gitbash (if still on windows)
+- wireshark
+- burpsuite
 - mongoDB (incl compass) (also, jonas video on setting this up locally for windows.  we shall see how this local version compares to atlas.  if atlas is better, dont worry about downloading this)
 
 ---
