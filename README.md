@@ -37,6 +37,7 @@
 - mongoDB (incl compass)
 - wireshark
 - burpsuite
+- https://httpie.io/
 
 ---
 
