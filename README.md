@@ -38,6 +38,7 @@
 - wireshark
 - burpsuite
 - https://httpie.io/
+- https://cli.github.com/
 
 ---
 
