@@ -39,6 +39,7 @@
 - burpsuite
 - https://httpie.io/
 - linode (idk if it actually has an app, maybe its just the webapp)
+- https://cli.github.com/
 
 ---
 
