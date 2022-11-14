@@ -11,6 +11,7 @@
 - dotenv (vscode ext)
 - eslint (vscode ext)
 - docker (vscode ext)
+- sass (vscode ext)
 - liveserver (vscode ext)
 - quokkajs (vscode ext)
 - settings sync (vscode ext)
