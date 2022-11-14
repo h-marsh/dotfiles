@@ -12,6 +12,7 @@
 - eslint (vscode ext)
 - docker (vscode ext)
 - sass (vscode ext)
+- Live Sass Compiler (vscode ext)
 - liveserver (vscode ext)
 - quokkajs (vscode ext)
 - settings sync (vscode ext)
