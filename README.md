@@ -16,7 +16,7 @@
 - liveserver (vscode ext)
 - quokkajs (vscode ext)
 - settings sync (vscode ext)
-- prettier (yay for autoformatting! dont forget to enable format on save.). also maybe prettier config file? (see nodefarm part 1 from jonas, its just a .prettierrc file, though it might just be a project by project basis) (vscode ext)
+- prettier (yay for autoformatting! dont forget to enable format on save and set default formatter in vscode settings to prettier-vscode.). also maybe prettier config file? (see nodefarm part 1 from jonas, its just a .prettierrc file, though it might just be a project by project basis) (vscode ext)
 - todo highlight (vscode ext)
 - pug beautify (maybe? apparently its used for building templates in node, according to jonas?)
 
