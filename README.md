@@ -32,6 +32,7 @@
 ## general programs
 
 - firefox
+- npm i -g typescript
 - vscode (duh. and themes: see below)
 - nodejs
 - postman
