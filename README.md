@@ -53,3 +53,27 @@ https://dotfiles.github.io/
 https://dotfiles.github.io/tutorials/
 https://kalis.me/dotfiles-automating-macos-system-configuration/
 https://pawelgrzybek.com/sync-vscode-settings-and-snippets-via-dotfiles-on-github/
+
+
+
+
+
+
+
+---
+
+# ORRRRRRRRRRRRRRRRR
+
+all you need is bashrc, vimrc, and tmuxconfig and you can do anything, anywhere.  especially tmux config, you can add status bars (more than one, even. requires a tmux within a tmux), split a pane.
+
+tmux is a gnome terminal that comes with pop!os.  can also get it for other stuff.  you can put it on anything.  can be configured to behave like `screen`.  extremely powerful and configurable, even if you dont buy in to the plugin stuff since they defeat the whole purpose of being portable.  stick with basics to keep things simple and portable.  universally available, even during cert exams.  makes it great for multitasking with more than one terminal, and avoiding being bogged down by web browser which poorly emulates the web.  better than opening a million web browser tabs.  persistent sessions
+
+can use tmxu to make a monitoring station for k8s.  health checks, things running in other windows, running in a beaitiful big split screen console with no annoying borders.
+
+absolute, immedaite control over all windows and panes with tmux.  dont need i3.  all you need is tmux because it gets you everything you need.  it manages you windows, you work real estate, panes.  all you need is tmux.conf
+
+all the bindings are also compeltely transferrable.  configuration is centralized and portable in a single file.  tmux config.  i.e. k8 cert has tmux, can easily take your tmux.conf file, along with your bashrc and vimrc, and youre good to go.  cant do i3, cant change the distro.  but you can easily run a docker container, copy those configs over and youre already set.
+
+Tired of configuring loads of stuff and tweaking with a different program, i decided to just do something like this. It may not be as cool as some custom gentoo or even LFS things, but at this point, I just want 2 things: easy to set up and easy to replicate. Im just using the default plasma terminal that came with Alpine linux and I'm building my tmux and neovim/vim config. That's it 
+
+https://www.youtube.com/watch?v=krXhsb1FSDU 
