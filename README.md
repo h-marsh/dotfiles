@@ -77,3 +77,5 @@ all the bindings are also compeltely transferrable.  configuration is centralize
 Tired of configuring loads of stuff and tweaking with a different program, i decided to just do something like this. It may not be as cool as some custom gentoo or even LFS things, but at this point, I just want 2 things: easy to set up and easy to replicate. Im just using the default plasma terminal that came with Alpine linux and I'm building my tmux and neovim/vim config. That's it 
 
 https://www.youtube.com/watch?v=krXhsb1FSDU 
+
+in fairness, you dont really need to worry about tmux and vim and such right now, esp not before you get your first job.  get your first job, THEN worry about this tmux and vim stuff.  until then, you can get by just fine with vscode and bash and alttabbing.
