@@ -79,3 +79,7 @@ Tired of configuring loads of stuff and tweaking with a different program, i dec
 https://www.youtube.com/watch?v=krXhsb1FSDU 
 
 in fairness, you dont really need to worry about tmux and vim and such right now, esp not before you get your first job.  get your first job, THEN worry about this tmux and vim stuff.  until then, you can get by just fine with vscode and bash and alttabbing.
+
+https://www.youtube.com/watch?v=_hnuEdrM-a0
+
+tmux ui?  idk lol
