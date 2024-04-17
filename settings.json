@@ -3,7 +3,7 @@
   "editor.formatOnSave": true,
   "settingsSync.ignoredExtensions": [],
   "editor.minimap.enabled": false,
-
+  "editor.lightbulb.enabled": "off",
   "editor.lineNumbers": "relative",
 
   // "vim.leader": "<Space>",
