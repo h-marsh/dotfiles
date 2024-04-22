@@ -4,7 +4,7 @@ highlight LineNrNormal ctermfg=white guifg=white
 highlight LineNrInsert ctermfg=green guifg=green
 
 " Set default line number color
-highlight LineNr guibg=NONE guifg=NONE cterm=NONE
+highlight LineNr ctermfg=white guifg=white
 
 " Update line number color based on mode
 augroup ModeBasedLineNrColor
@@ -31,4 +31,4 @@ autocmd InsertEnter * hi ModeMsg ctermbg=red
 autocmd InsertLeave * hi ModeMsg ctermbg=none
 
 set relativenumber
-
+syntax on
