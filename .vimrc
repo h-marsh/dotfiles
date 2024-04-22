@@ -14,8 +14,8 @@ augroup ModeBasedLineNrColor
 augroup END
 
 
-
-
+" Define custom highlight group for matching parentheses
+highlight MatchParen ctermfg=darkgreen guifg=darkgreen ctermbg=darkgrey guibg=darkgrey
 
 
 " Display full path of the file
