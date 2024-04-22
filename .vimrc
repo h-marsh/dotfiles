@@ -18,7 +18,8 @@ augroup END
 
 
 
-
+" Display full path of the file
+set statusline=%{expand('%:p')}
 " Display path relative to home directory
 set statusline+=\ %P
 
