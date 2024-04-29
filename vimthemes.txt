@@ -1,0 +1,9 @@
+https://github.com/dense-analysis/ale
+https://github.com/joshdick/onedark.vim
+https://github.com/sonph/onehalf
+https://github.com/sainnhe/sonokai
+https://github.com/zacanger/angr.vim
+https://github.com/challenger-deep-theme/vim
+https://github.com/whatyouhide/vim-gotham
+https://github.com/dikiaap/minimalist
+https://github.com/jaredgorski/SpaceCamp
