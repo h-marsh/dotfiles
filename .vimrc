@@ -30,6 +30,6 @@ highlight ModeMsg ctermfg=white ctermbg=red guifg=white guibg=red
 autocmd InsertEnter * hi ModeMsg ctermbg=red
 autocmd InsertLeave * hi ModeMsg ctermbg=none
 
-set listchars-=trail
+set fillchars=eob:\ 
 set relativenumber
 syntax on
