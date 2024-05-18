@@ -23,6 +23,10 @@ set statusline=%{expand('%:p')}
 " Display path relative to home directory
 set statusline+=\ %P
 
+" Add file information and align line info to the right
+set statusline+=\ %m%r%h%w\ [%{&ff}]\ [%{&fileencoding}]\ [%{&fileformat}]\ [%{&filetype}]\ %=%l/%L\ [%p%%]
+set laststatus=2
+
 " Customize insert mode indicator
 highlight ModeMsg ctermfg=white ctermbg=red guifg=white guibg=red
 
