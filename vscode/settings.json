@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Tokyo Night Storm",
+"workbench.colorTheme": "Tokyo Night Storm",
   "editor.formatOnSave": true,
   "settingsSync.ignoredExtensions": [],
   "editor.minimap.enabled": false,
@@ -90,5 +90,7 @@
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "vim.useCtrlKeys": false,
-  "vim.commandLineModeKeyBindingsNonRecursive": []
+  "vim.commandLineModeKeyBindingsNonRecursive": [],
+  "git.openRepositoryInParentFolders": "never",
+  "extensions.ignoreRecommendations": true
 }
