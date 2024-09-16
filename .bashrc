@@ -1,6 +1,8 @@
 # echo "(ノ ゜Д゜)ノ ︵ ┻━┻"
 # Maximize the terminal window (for Git Bash on Windows)
 printf '\e[9;1t'
+
+<<'COMMENT'
 cat << "EOF"
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 either start working hard now so you can earn money doing something you enjoy,
@@ -10,6 +12,7 @@ dont simply say you need it, start acting like it.
 no system is safe. aim for the impossible. have fun in cyberspace and meat space.
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 EOF
+COMMENT
 
 cd ./Desktop/dev
 
