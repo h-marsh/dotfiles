@@ -34,6 +34,12 @@ highlight ModeMsg ctermfg=white ctermbg=red guifg=white guibg=red
 autocmd InsertEnter * hi ModeMsg ctermbg=red
 autocmd InsertLeave * hi ModeMsg ctermbg=none
 
+" Set background color to a specific RGB value
+highlight Normal guibg=#445169
+
+" Set the font and size for GVim
+set guifont=Monaco:h11
+
 set linebreak
 set fillchars=eob:\ 
 set relativenumber
