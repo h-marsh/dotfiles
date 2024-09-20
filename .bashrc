@@ -1,6 +1,10 @@
-# echo "(ノ ゜Д゜)ノ ︵ ┻━┻"
+echo "(ノ ゜Д゜)ノ ︵ ┻━┻"
 # Maximize the terminal window (for Git Bash on Windows)
+
+<<'Comment'
 printf '\e[9;1t'
+EOF
+Comment
 
 <<'COMMENT'
 cat << "EOF"
