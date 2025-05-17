@@ -12,7 +12,7 @@ Here’s your current up-to-date **Homebrew list** based on our recent conversat
 * **PyCharm:** Python IDE
 * **Git:** Version control
 * **GitHub CLI (gh):** GitHub tool
-* **htop:** System monitoring
+* **htop:** System monitoring (ehhh, tbh, this one is optional for right now.  maybe once you get settled into the rest of the workflow/environment lol)
 * **tmux**: Terminal Multiplexer
 
 ---
