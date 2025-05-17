@@ -13,6 +13,7 @@ Here’s your current up-to-date **Homebrew list** based on our recent conversat
 * **Git:** Version control
 * **GitHub CLI (gh):** GitHub tool
 * **htop:** System monitoring
+* **tmux: Terminal Multiplexer
 
 ---
 
